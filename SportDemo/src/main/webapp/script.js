@@ -23,6 +23,10 @@ window.onscroll = () =>{
 
 
 
+
+
+
+
 let themeToggler = document.querySelector('#theme-toggler');
 
 themeToggler.onclick = () =>{
